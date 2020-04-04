@@ -13,12 +13,12 @@ Once the sentences were processed, a further analysis using the CHI squared algo
 
 | Category        | Correlated unigrams                                  |
 | --------------- | ---------------------------------------------------- |
-| Availability    | `fast`, `user`, `time`, `alltimes`, `available`      |
-| Fault Tolerance | `able`, `fast`, `stream`, `system`, `shall`          |
-| Maintainability | `user`, `take`, `must`, `new`, `update`              |
-| Performance     | `process`, `website`, `time`, `response`, `fast`     |
-| Scalability     | `fast`, `use`, `able`, `process`, `support`          |
+| Availability    | `hours`, `year`, `time`, `alltimes`, `available`     |
+| Fault Tolerance | `fast`, `view`, `stream`, `system`, `shall`          |
+| Maintainability | `hours`, `change`, `must`, `new`, `update`           |
+| Performance     | `process`, `take`, `website`, `response`, `fast`     |
+| Scalability     | `use`, `fast`, `process`, `number`, `support`        |
 | Security        | `fast`, `data`, `information`, `access`, `authorize` |
-| Usability       | `able`, `access`, `alltimes`, `easy`, `use`          |
+| Usability       | `able`, `first`, `easy`, `train`, `use`              |
 
-As expected, the most representative bigrams of this kind of sentences (due to it's predefined syntax) were the following ones: `system shall`, `must able`, `system must`, `shall able`, `user able`, `authorize user`, `user user`, `user shall`, `shall easy`, `use system`
+As expected, the most representative bigrams of this kind of sentences (due to it's predefined syntax) were the following ones: `system shall`, `must able`, `user access`, `system must`, `shall available`, `shall able`, `authorize user`, `user able`, `user user`, `user shall`, `shall easy`, `use system`
